@@ -6,8 +6,11 @@ HOW TO USE:
                
 DOWNLOAD BEPIN EX MONO
 ---------------------------
-MMM : https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.1
-Bepin: https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
+MMM : 
+https://github.com/DeadlyKitten/MonkeModManager/releases/tag/1.3.1
+
+Bepin:
+https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 ---------------------------
 
 Drag Bepin Into Game File (if you chose bepin)
