@@ -10,7 +10,7 @@ Bepin:
 https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 ---------------------------
 
-Drag Bepin Into Game File (if you chose bepin)
+Drag BepinEX Into Game File
 ---------------------------
 C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag
 ----------------------------
