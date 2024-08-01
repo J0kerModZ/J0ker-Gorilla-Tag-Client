@@ -4,10 +4,11 @@ THANK YOU FOR USING J0KER CLIENT
 ---------------------------
 # HOW TO USE:
                
-DOWNLOAD BEPIN EX MONO
+DOWNLOAD BEPIN EX
 ---------------------------
-Bepin:
-https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
+# [Download Bepin](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
+## Or
+[Download Monkey Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases)
 ---------------------------
 
 Drag BepinEX Into Game File
