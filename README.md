@@ -4,13 +4,11 @@ THANK YOU FOR USING J0KER CLIENT
 ---------------------------
 # HOW TO USE:
                
-DOWNLOAD BEPIN EX
+DOWNLOAD BEPIN EX Or Monkey Mod Manager
 ---------------------------
-# [Download Bepin](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
-## Or
+[Download Bepin](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21)
 [Download Monkey Mod Manager](https://github.com/DeadlyKitten/MonkeModManager/releases)
 ---------------------------
-
 Drag BepinEX Into Game File
 ---------------------------
 C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag
