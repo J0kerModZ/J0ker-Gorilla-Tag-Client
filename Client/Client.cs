@@ -1336,7 +1336,7 @@ namespace J0kersClient.Client
             Loltext.name = "LolText";
             Loltext.transform.localPosition = new Vector3(0f, 25f, 0f);
             Loltext.transform.rotation = Quaternion.EulerRotation(70f, 0f, 0f);
-            Loltext.text = "J0KER CLIENT\n--------------------\n<color=red>OPEN MENU WITH TRIGGER\nMORE AT:\nj0kermodz.lol & discord.gg/j0kermodz</color>\n7/21/2024<color=green> FULLY UD!</color>";
+            Loltext.text = "J0KER CLIENT\n--------------------\n<color=red>OPEN MENU WITH TRIGGER\nMORE AT:\nj0kermodz.lol & discord.gg/j0kermodz</color>\n8/7/2024<color=green> UD!</color>";
             obj = GameObject.Find("GorillaUI/Text");
             obj.name = "GorillaUI Text";
             obj = GameObject.Find("GorillaUI/GorillaUI Text");
